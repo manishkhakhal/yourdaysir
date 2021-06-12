@@ -9,7 +9,7 @@ export const getWeather = createAsyncThunk(
 export const weatherSlice = createSlice({
   name: "weather",
   initialState: {
-    city: "Nagaur",
+    city: "Jaipur",
     state: "Rajasthan",
     metadata: {},
     temperature: ""
