@@ -1,0 +1,17 @@
+#background-image-container {
+  position: absolute;
+  width: 100vw;
+  height: 100vh;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  overflow: hidden;
+}
+
+#background-image {
+  object-fit: cover;
+  width: 100%;
+  min-height: 100%;
+  transform: scale(1.5);
+  filter: brightness(0.5) blur(5px);
+}

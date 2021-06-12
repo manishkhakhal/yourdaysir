@@ -1,0 +1,22 @@
+#quote {
+  text-align: center;
+}
+
+.quote-author {
+  opacity: 0.75;
+  margin: 0;
+}
+
+.quote-message {
+  opacity: 0.75;
+  margin: 0;
+  margin-bottom: 4px;
+}
+
+p {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  color: #fff;
+  text-shadow: 0 2px 4px rgba(71, 97, 206, 0.357272);
+}
