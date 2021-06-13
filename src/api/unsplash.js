@@ -1,4 +1,4 @@
-const clientId = '61LUxehDJqjwLhm9b_0V63jdXIdNLBIV2n_SIohkwBI';
+const clientId = '';
 
 const url = `https://api.unsplash.com/search/photos?query=nature&page=1&per_page=5&client_id=${clientId}`;
 
